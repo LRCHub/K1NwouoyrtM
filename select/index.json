@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ヒトリユラリ(MARETU REMIX)",
+  "base_artist": "Kanaria",
+  "createdAt": "2026-01-01T14:10:06.818548Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒトリユラリ - MARETU REMIX",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/01_ヒトリユラリ_-_MARETU_REMIX_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒトリユラリ(MARETU REMIX)",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/02_ヒトリユラリ(MARETU_REMIX)_Kanaria.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒトリユラリ(MARETU REMIX)",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_ヒトリユラリ(MARETU_REMIX)_Kanaria.txt"
+    }
+  ]
+}
